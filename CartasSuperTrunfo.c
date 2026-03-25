@@ -36,7 +36,7 @@ int main (){
     getchar(); // limpa o ENTER do buffer
 
     // 🔹 Nome da cidade (com espaço)
-    printf("Nome da cidade: ");
+    printf("Digite o nome da cidade: ");
     fgets(nomecidade1, 50, stdin);
 
     // 🔹 População
